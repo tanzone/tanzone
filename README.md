@@ -95,9 +95,9 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tanzone&show_icons=true&locale=en&layout=compact" alt="tanzone" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tanzone&show_icons=true&locale=en&layout=compact" alt="tanzone" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzone&show_icons=true&locale=en" alt="tanzone" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzone&show_icons=true&locale=en" alt="tanzone" /></p>
 
 
 ## 💰 You can help me by Donating
