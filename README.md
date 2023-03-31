@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Tanzi</h1>
 <h3 align="center">An enthusiast of Backend Programming and development of Artificial Intelligence and Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzone" alt="tanzone" /></a> </p>
-
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Data scientist and more...**
