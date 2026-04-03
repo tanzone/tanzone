@@ -65,10 +65,3 @@ I am a Computer and Electronic Engineer (University of Parma) with an insatiable
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanzone&show_icons=true&locale=en&theme=radical" alt="Manuel's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzone&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</p>
