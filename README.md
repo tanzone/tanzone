@@ -1,158 +1,74 @@
 <h1 align="center">Hi 👋, I'm Manuel Tanzi</h1>
-<h3 align="center">An enthusiast of Backend Programming and development of Artificial Intelligence and Machine Learning</h3>
+<h3 align="center">Computer & Electronic Engineer | R&D Automation | Tech Maker & AI Enthusiast</h3>
 
-- 🔭 I’m currently working on **Myself**
+<p align="center">
+  <a href="https://linkedin.com/in/manuel-tanzi-ab2562176" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/tanzi_manuel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://paypal.me/Tanzone" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Data scientist and more...**
+---
 
-- 👯 I’m looking to collaborate on **Myself**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **Something to resolve**
+I am a Computer and Electronic Engineer (University of Parma) with an insatiable technical curiosity. My philosophy is simple: don't stop at theory, but test, iterate, and build until you find the most efficient solution. 
 
-<h3 align="left">Connect with me:</h3>
+- 🏭 **By Day:** I work in **R&D and Software Development** at Ferrari Sistemi. I manage the 360° lifecycle of industrial automation: from intensive scouting of new hardware (PLC B&R, Delta, Siemens) and writing C/C++/Python architectures, to SCADA/HMI development and final commissioning.
+- 🛠️ **By Night (The Maker):** I am a passionate "Smanettone" (Tech Tinkerer). I love **3D printing, designing custom PCBs, writing firmware, and building custom desktop apps & scripts** to automate everyday tasks.
+- 🧠 **Focus:** Clean code, refactoring, AI integration, and bridging the gap between low-level hardware and high-level software.
+- 🤝 **Mentorship:** I actively mentor junior developers, sharing best practices and problem-solving methodologies.
+
+---
+
+### 🚀 What I Do
+
+*   **Industrial Automation & R&D:** PLC Programming (Siemens, B&R, Delta), Motion Control, SCADA, HMI, Electrical Design, FAT/SAT Commissioning.
+*   **Software & AI:** C, C++, C#, Python, Desktop Applications, Machine Learning algorithms, Code Optimization.
+*   **Hardware & Embedded:** PCB Design, Firmware Development, Microcontrollers, Industrial IoT, Sensor Integration.
+*   **SysAdmin & Tools:** Linux enthusiast, Scripting, Rapid Prototyping.
+
+---
+
+### 🛠️ Languages and Tools
+
+**⚙️ Software Development & AI**
 <p align="left">
-<a href="https://linkedin.com/in/manuel-tanzi-ab2562176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel-tanzi-ab2562176" height="30" width="40" /></a>
-<a href="https://instagram.com/tanzi_manuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzi_manuel" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
-
-<br>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> 
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-
-<br>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-
-<br>
-
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-
-<br>
-
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
-</a> 
-
-<br>
-
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> 
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a> 
-
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a> 
-
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-</a> 
-
-<br>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a> 
-
-<br>
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-
-<a href="https://ifttt.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-
+**🔌 Embedded, Maker & Hardware**
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="margin-right: 10px;"/>
+  <!-- Nota: icone per PCB e stampa 3D generiche non sono standard in devicon, ma il concetto è espresso nel testo -->
 </p>
 
+**🗄️ Databases & Tools**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+</p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzone&show_icons=true&locale=en" alt="tanzone" /></p>
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzone&show_icons=true&locale=en&layout=compact" alt="tanzone" /></p>
-
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Tanzone) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanzone&show_icons=true&locale=en&theme=radical" alt="Manuel's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzone&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</p>
